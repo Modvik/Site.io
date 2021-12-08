@@ -1,0 +1,50 @@
+[{
+        "id": 0,
+        "preview": "Название картины",
+        "imgPrew": "IMG_20210925_110900.jpg",
+        "alt": "Nazvanie kartini",
+        "imgSlider": ["IMG_20210925_110900.jpg", "IMG_20210925_111703.jpg", "IMG_20210925_111703.jpg"],
+        "sliderPrew": "Описание"
+    },
+    {
+        "id": 1,
+        "preview": "Название картины",
+        "imgPrew": "IMG_20210925_110900.jpg",
+        "alt": "Nazvanie kartini",
+        "imgSlider": ["IMG_20210925_110900.jpg", "IMG_20210925_111703.jpg"],
+        "sliderPrew": "Описание"
+    },
+    {
+        "id": 2,
+        "preview": "Название картины",
+        "imgPrew": "IMG_20210925_110900.jpg",
+        "alt": "Nazvanie kartini",
+        "imgSlider": ["IMG_20210925_110900.jpg", "IMG_20210925_111703.jpg"],
+        "sliderPrew": "Описание"
+    },
+    {
+        "id": 3,
+        "preview": "Название картины",
+        "imgPrew": "IMG_20210925_110900.jpg",
+        "alt": "Nazvanie kartini",
+        "imgSlider": ["IMG_20210925_110900.jpg", "IMG_20210925_111703.jpg"],
+        "sliderPrew": "Описание"
+
+    },
+    {
+        "id": 4,
+        "preview": "Название картины",
+        "imgPrew": "IMG_20210925_110900.jpg",
+        "alt": "Nazvanie kartini",
+        "imgSlider": ["IMG_20210925_110900.jpg", "IMG_20210925_111703.jpg"],
+        "sliderPrew": "Описание"
+    },
+    {
+        "id": 5,
+        "preview": "Название картины",
+        "imgPrew": "IMG_20210925_110900.jpg",
+        "alt": "Nazvanie kartini",
+        "imgSlider": ["IMG_20210925_110900.jpg", "IMG_20210925_111703.jpg"],
+        "sliderPrew": "Описание"
+    }
+]
